@@ -7,6 +7,6 @@ for _ in range(n):
     numerics.append(number)
 
 a = int(input())
-b = int(input())
+    b = int(input())
 
 print(sum(numerics[a-1:b]))
